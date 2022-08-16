@@ -1,1 +1,3 @@
-# Welcome to my compilation of machine learning notebooks that comprise my portfolio
+# Machine Learning & Deep Learning Portfolio
+
+## Diamond Valuation using CNN/DNN
