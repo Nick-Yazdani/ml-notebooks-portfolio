@@ -49,3 +49,13 @@ it then has to be cleaned and wrangled into a form the model accepts, there is a
 5. Build and train modedel
 6. Evaluate model performance
 7. Adjust hyper-paramters or make any other relevant changes and then repeat 5
+
+## 2. Dog vs Cat Binary Classifier CNN in TensorFlow
+
+### Introduction
+
+This is a basic adaptation of one of the TensorFlow examples on building an image classifier. In this example it has been used for classification of images that are either images of a dog or a cat.
+
+#### Motivation
+
+Just a straightforward example demonstrating my ability to leverage a basic CNN architecture for binary image classification using TensorFlow
