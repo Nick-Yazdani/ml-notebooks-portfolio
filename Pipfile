@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tensorflow-gpu = "==2.9.3"
+pandas = "*"
+matplotlib = "*"
+numpy = "*"
+scikit-learn = "*"
+kaggle = "*"
+
+[dev-packages]
+jupyter = "*"
+notebook = "*"
+
+[requires]
+python_version = "3.9"
